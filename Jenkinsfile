@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Clonar') {
             steps {
-                git 'https://github.com/Leftama/saludoapp.git'
+                checkout scm
             }
         }
         stage('Compilar') {
