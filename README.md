@@ -5,7 +5,6 @@ Una aplicación Java simple que genera saludos personalizados, con pipeline de C
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=java)
 ![Maven](https://img.shields.io/badge/Maven-3.x-blue?style=flat-square&logo=apache-maven)
 ![Jenkins](https://img.shields.io/badge/Jenkins-Pipeline-red?style=flat-square&logo=jenkins)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
